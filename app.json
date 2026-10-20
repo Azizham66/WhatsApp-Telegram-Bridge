@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-telegram-bridge",
+  "description": "Telegram to WhatsApp message bridge",
+  "keywords": ["python", "telegram", "whatsapp"],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
